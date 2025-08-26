@@ -27,7 +27,8 @@ This guide will cover how to add a new song entry, jacket, charts, and audio to 
 ### Step 1: Adding your audio
 
 wacca-acb-editor todo  
-make sure to edit the batch file for 3.10
+make sure to edit the batch file for 3.10  
+need to figure out acb to uasset
 
 
 
@@ -69,9 +70,9 @@ todo later easy guide need to grab screenshots
 todo not as easy guide need to grab screenshots
 
 ---
-## Troubleshooting & Editing
+## Editing & Troubleshooting
 
-Some time in live, everything pencil and everything smoothly with pencil is going smoothly. But then, unexpected happening it is happening unexpectedly in life. The importance thing to do is to make solution to the problem so problem is solutioned problem solution problem. Chair. 
+Some time in live, everything pencil and everything smoothly with pencil is going smoothly. But then, unexpected happening it is happening unexpectedly in life. The importance thing to do is to make solution to the problem so problem is solutioned problem solution problem. 
 
 ### MercuryTools
 
